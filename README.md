@@ -1,3 +1,3 @@
-This is the repo for the paper **EIA: PRIVACY ATTACK AGAINST GENERALIST WEB AGENTS VIA ENVIRONMENTAL INJECTION**
+This is the repo for the paper **EIA: Privacy Attack Against Generalist Web Agents Via Environmental Injection**
 
-We are working on finalizing the materials for release. Please stay tuned!!
+Code and data are coming soon. Please stay tuned!!

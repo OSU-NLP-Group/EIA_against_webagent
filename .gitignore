@@ -1,0 +1,10 @@
+data/
+eval_results/
+.vscode
+*.zip
+*.jpg
+*result.json
+*.html
+*.pyc
+*.DS_store
+*/__pycache__

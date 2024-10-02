@@ -2,7 +2,7 @@
 
 This is the official repo of EIA ([https://arxiv.org/abs/2409.11295](https://arxiv.org/abs/2409.11295)). If you find it helpful, please kindly 🌟star🌟 it and cite our paper 📜.
 
-![EIA_overview](attack_overview_new.png)
+![EIA_overview](attack_overview_new1.png)
 
 EIA is a form of indirect prompt injection, but specifically designed to manipulate the environment where state-changing actions occur, with a particular focus on exploiting
 the web environment to target generalist web agents.

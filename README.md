@@ -76,6 +76,11 @@ We also provide the evaluation results from the same link above with the name `e
 ### Evaluation
 Please refer to `eval_run.sh` to get the ASR, ASR_o and ASR_pt results.
 
+## Licensing Information
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Our benchmark is adapted from [Mind2Wen](https://github.com/OSU-NLP-Group/Mind2Web/tree/main), and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+Code under this repo is licensed under a MIT License.
 
 ## Citation
 If you find the paper and any resources here helpful, pls kindly cite our paper:
